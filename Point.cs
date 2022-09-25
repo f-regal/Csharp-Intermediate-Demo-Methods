@@ -29,7 +29,6 @@ namespace Csharp_Intermediate_Demo_Methods
                 throw new ArgumentNullException("newLocation");
             else
                 Move(newLocation.X, newLocation.Y);
-
         }
 
 
